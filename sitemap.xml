@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url><loc>https://muddy-bass-fixes.pages.dev/index.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/why-does-my-fishing-line-keep-twisting.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-fix-tangled-fishing-line-spinning-reel.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-prevent-wind-knots-when-casting.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-spool-fishing-line-without-memory-twist.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/why-does-spinning-reel-pause-or-get-hard-to-turn.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-stop-fishing-line-digging-into-spool.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-remove-line-twist-from-reel-fast.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/best-fishing-bait-for-muddy-water-bass.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-catch-bass-in-muddy-water.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/best-baits-for-murky-water-bass-fishing.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/black-and-blue-jig-muddy-water.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/spinnerbait-vs-crankbait-in-muddy-water.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/best-color-lure-for-muddy-water-bass.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-fish-stained-water-bass.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/fishing-line-memory-fix.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/spinning-reel-bail-close-by-hand-trick.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/rattling-crankbait-muddy-water-bass.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/best-spinning-reel-for-muddy-water-bass.html</loc><lastmod>2026-04-20</lastmod></url>
-    <url><loc>https://muddy-bass-fixes.pages.dev/how-to-choose-fishing-line-for-bass-fishing-muddy-water.html</loc><lastmod>2026-04-20</lastmod></url>
+
+  <url>
+    <loc>https://muddy-bass-fixes.pages.dev/</loc>
+    <lastmod>2026-04-20</lastmod>
+  </url>
+
+  <url>
+    <loc>https://muddy-bass-fixes.pages.dev/why-does-my-fishing-line-keep-twisting.html</loc>
+    <lastmod>2026-04-20</lastmod>
+  </url>
+
+  <url>
+    <loc>https://muddy-bass-fixes.pages.dev/how-to-fix-tangled-fishing-line-spinning-reel.html</loc>
+    <lastmod>2026-04-20</lastmod>
+  </url>
+
+  <!-- repeat same format for all pages -->
+
 </urlset>
